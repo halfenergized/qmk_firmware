@@ -1,10 +1,10 @@
 # GSH40
 
-A short description of the keyboard/project
+An acrylic sandwich 40% ortholinear keyboard.
 
 * Keyboard Maintainer: [poisonking](https://github.com/halfenergized)
-* Hardware Supported: The PCBs, controllers supported
-* Hardware Availability: Links to where you can find this hardware
+* Hardware Supported: GSH40 PCB
+* Hardware Availability: [If you're in Indonesia, you can purchase here](https://www.bukalapak.com/p/komputer/aksesoris-226/keyboard/i6wzzn-jual-gsh-planck-mechanical-keyboard-diy-kit)
 
 Make example for this keyboard (after setting up your build environment):
 
