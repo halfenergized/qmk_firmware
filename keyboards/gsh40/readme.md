@@ -1,10 +1,8 @@
 # GSH40
 
-![GSH40](imgur.com image replace me!)
-
 A short description of the keyboard/project
 
-* Keyboard Maintainer: [halfenergized](https://github.com/yourusername)
+* Keyboard Maintainer: [poisonking](https://github.com/halfenergized)
 * Hardware Supported: The PCBs, controllers supported
 * Hardware Availability: Links to where you can find this hardware
 
